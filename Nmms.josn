@@ -14,3 +14,19 @@
         "Allowoffline": false
     }
 ]
+[
+    {
+        "device_id": "f7a80a9aa374fdde",
+        "username": "4508",
+        "password": "9755",
+        "expirydate": "29-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "199e61832c3a3dda",
+        "username": "12345",
+        "password": "9755",
+        "expirydate": "15-07-2025",
+        "Allowoffline": false
+    }
+]
