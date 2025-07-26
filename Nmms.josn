@@ -12,7 +12,7 @@
         "password": "9755",
         "expirydate": "26-08-2025",
         "Allowoffline": false
-    }
+    },
 
     {
         "device_id": "f7a80a9aa374fdde",
@@ -20,5 +20,5 @@
         "password": "9755",
         "expirydate": "29-12-2025",
         "Allowoffline": false
-    },
+    }
 ]
