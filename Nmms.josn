@@ -250,5 +250,40 @@
         "password": "pass456",
         "expirydate": "30-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "10694a24c282ef0e",
+        "username": "kallu",
+        "password": "9999",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4ee7d5d6625ac625",
+        "username": "suraj",
+        "password": "9999",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "15cf1018757a709b",
+        "username": "ashish",
+        "password": "9999",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e1ea6edc535302a3",
+        "username": "mate",
+        "password": "9999",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "906e056b5204e8a2",
+        "username": "my2",
+        "password": "9999",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
     }
 ]
