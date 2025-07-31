@@ -42,9 +42,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
+        "device_id": "8b5df3f513cc7231",
+        "username": "mahesh",
+        "password": "9999",
         "expirydate": "30-08-2025",
         "Allowoffline": false
     },
